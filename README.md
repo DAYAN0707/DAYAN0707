@@ -9,13 +9,13 @@
 販売職として培った現場視点を活かし、
 業務改善につながるシステム開発を目指しています。
 
-現在はPython・DjangoによるWebアプリ開発に加え、
-C#・ASP.NETについても学習を進めています。
+現在はPython・DjangoによるWebアプリ開発を中心に学習しています。
+C#・ASP.NETも学習経験があります。
 
 ### Skills
 
 * Python / Django
-* C# / ASP.NET（学習中）
+* C# / ASP.NET（学習経験）
 * HTML / CSS / JavaScript（基礎）
 * SQL（SQLite）
 * Git / GitHub
